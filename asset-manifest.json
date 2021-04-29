@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/react-barcode-scanner/static/js/main.e4ae047b.chunk.js",
+    "main.js.map": "/react-barcode-scanner/static/js/main.e4ae047b.chunk.js.map",
+    "runtime-main.js": "/react-barcode-scanner/static/js/runtime-main.b9ee5d3a.js",
+    "runtime-main.js.map": "/react-barcode-scanner/static/js/runtime-main.b9ee5d3a.js.map",
+    "static/js/2.ae25ad99.chunk.js": "/react-barcode-scanner/static/js/2.ae25ad99.chunk.js",
+    "static/js/2.ae25ad99.chunk.js.map": "/react-barcode-scanner/static/js/2.ae25ad99.chunk.js.map",
+    "index.html": "/react-barcode-scanner/index.html",
+    "static/js/2.ae25ad99.chunk.js.LICENSE.txt": "/react-barcode-scanner/static/js/2.ae25ad99.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b9ee5d3a.js",
+    "static/js/2.ae25ad99.chunk.js",
+    "static/js/main.e4ae047b.chunk.js"
+  ]
+}
